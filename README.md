@@ -232,7 +232,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Agricultural research community**: For highlighting the importance of authentic dataset analysis
 - **Deep learning community**: TensorFlow, Keras, and transfer learning research
 - **Open source contributors**: For tools and libraries that make agricultural AI accessible
-
----
-
-> "This project demonstrates that meaningful agricultural AI is possible with real-world constraints, but also highlights the significant data collection and validation work needed for production deployment." - Project Summary
