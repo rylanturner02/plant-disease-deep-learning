@@ -1,0 +1,29 @@
+Class,Train_Count,Test_Count,Total_Count,Plant_Species,Health_Status
+Apple Scab Leaf,78,10,88,Apple,Diseased
+Apple leaf,72,9,81,Apple,Healthy
+Apple rust leaf,75,10,85,Apple,Diseased
+Bell_pepper leaf,46,6,52,Bell_pepper,Healthy
+Bell_pepper leaf spot,52,9,61,Bell_pepper,Diseased
+Blueberry leaf,96,11,107,Blueberry,Healthy
+Cherry leaf,45,10,55,Cherry,Healthy
+Corn Gray leaf spot,61,3,64,Corn,Diseased
+Corn leaf blight,169,12,181,Corn,Diseased
+Corn rust leaf,102,10,112,Corn,Diseased
+Peach leaf,101,9,110,Peach,Healthy
+Potato leaf early blight,106,8,114,Potato,Diseased
+Potato leaf late blight,97,7,104,Potato,Diseased
+Raspberry leaf,109,7,116,Raspberry,Healthy
+Soyabean leaf,54,8,62,Soyabean,Healthy
+Squash Powdery mildew leaf,117,6,123,Squash,Healthy
+Strawberry leaf,82,8,90,Strawberry,Healthy
+Tomato Early blight leaf,74,9,83,Tomato,Diseased
+Tomato Septoria leaf spot,137,11,148,Tomato,Diseased
+Tomato leaf,53,8,61,Tomato,Healthy
+Tomato leaf bacterial spot,95,9,104,Tomato,Diseased
+Tomato leaf late blight,97,10,107,Tomato,Diseased
+Tomato leaf mosaic virus,44,10,54,Tomato,Diseased
+Tomato leaf yellow virus,67,6,73,Tomato,Diseased
+Tomato mold leaf,79,6,85,Tomato,Diseased
+Tomato two spotted spider mites leaf,2,0,2,Tomato,Diseased
+grape leaf,53,10,63,grape,Healthy
+grape leaf black rot,52,8,60,grape,Diseased

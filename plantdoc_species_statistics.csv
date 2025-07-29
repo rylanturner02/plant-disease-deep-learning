@@ -1,0 +1,16 @@
+,Total_Count,Total_Count,Total_Count,Train_Count,Test_Count
+,sum,count,mean,sum,sum
+Plant_Species,,,,,
+Apple,254,3,84.67,225,29
+Bell_pepper,113,2,56.5,98,15
+Blueberry,107,1,107.0,96,11
+Cherry,55,1,55.0,45,10
+Corn,357,3,119.0,332,25
+Peach,110,1,110.0,101,9
+Potato,218,2,109.0,203,15
+Raspberry,116,1,116.0,109,7
+Soyabean,62,1,62.0,54,8
+Squash,123,1,123.0,117,6
+Strawberry,90,1,90.0,82,8
+Tomato,717,9,79.67,648,69
+grape,123,2,61.5,105,18
